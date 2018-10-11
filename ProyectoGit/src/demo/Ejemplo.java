@@ -12,4 +12,8 @@ public class Ejemplo {
 	public void metodo2() {
 		
 	}
+	public void metodo3() {
+		
+	}
+	
 }
